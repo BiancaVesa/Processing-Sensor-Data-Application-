@@ -1,0 +1,10 @@
+Activities
+Activity: Leaving	   Occurrences: 14
+Activity: Breakfast	   Occurrences: 14
+Activity: Sleeping   Occurrences: 14
+Activity: Grooming	   Occurrences: 51
+Activity: Snack	   Occurrences: 11
+Activity: Showering	   Occurrences: 14
+Activity: Spare_Time/TV   Occurrences: 77
+Activity: Toileting	   Occurrences: 44
+Activity: Lunch   Occurrences: 9

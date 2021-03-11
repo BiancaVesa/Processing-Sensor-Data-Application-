@@ -1,0 +1,10 @@
+Activities
+Activity: Leaving	     Duration: 0 months, 1 days, 3 hours, 44 minutes, 44 seconds
+Activity: Breakfast	     Duration: 0 months, 0 days, 2 hours, 58 minutes, 8 seconds
+Activity: Sleeping     Duration: 0 months, 5 days, 11 hours, 3 minutes, 31 seconds
+Activity: Grooming	     Duration: 0 months, 0 days, 2 hours, 40 minutes, 42 seconds
+Activity: Snack	     Duration: 0 months, 0 days, 0 hours, 6 minutes, 1 seconds
+Activity: Showering	     Duration: 0 months, 0 days, 1 hours, 34 minutes, 9 seconds
+Activity: Spare_Time/TV     Duration: 0 months, 5 days, 22 hours, 28 minutes, 55 seconds
+Activity: Toileting	     Duration: 0 months, 0 days, 2 hours, 20 minutes, 34 seconds
+Activity: Lunch     Duration: 0 months, 0 days, 5 hours, 13 minutes, 31 seconds
